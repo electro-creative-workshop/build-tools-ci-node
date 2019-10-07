@@ -1,4 +1,4 @@
-FROM quay.io/pantheon-public/build-tools-ci:5.x
+FROM quay.io/pantheon-public/build-tools-ci:6.x
 
 USER root
 
